@@ -2,15 +2,15 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>ぬいぐるみ</title>
+  <title>nuigurumi</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
-  <h1>ぬいぐるみ</h1>
+  <h1>nuigurumi</h1>
 
   <video controls playsinline width="100%">
-    <source src="ぬいぐるみ.mp4" type="video/mp4">
+    <source src="nuigurumi.mp4" type="video/mp4">
     このブラウザでは動画を再生できません。
   </video>
 
